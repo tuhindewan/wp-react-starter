@@ -47,7 +47,6 @@ class Code_Rex_Crm_Loader {
 	 * @since    1.0.0
 	 */
 	public function __construct() {
-
 		$this->actions = array();
 		$this->filters = array();
 
